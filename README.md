@@ -16,7 +16,7 @@ Reactのチュートリアル
 
 ×と〇が交互に場所を選択
 
-![image](https://user-images.githubusercontent.com/66721120/215272121-22cff172-20cf-45bf-a835-df5131735cd8.png)
+![image](https://user-images.githubusercontent.com/66721120/215272270-a46748e0-67bd-4f8f-bf63-a40e8239f6d2.png)
 
 
 終了時
